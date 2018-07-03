@@ -1,16 +1,16 @@
 # Tutorials v0.1.0 alpha 0
 
-## Table of Contents 👇
+## Table of Contents
 
-* [What is it?](#what-is-it-)
+* [What is it?](#what-is-it)
 * [Directory Structure](#directory-structure)
 * [Usage](#usage)
     - [Local Usage](#local-usage)
-    - [Web Usage](#web-usage-)
-* [Contributors](#contributors-)
-* [License](#license-)
+    - [Web Usage](#web-usage)
+* [Contributors](#contributors)
+* [License](#license)
 
-## What is it? 🤔
+## What is it?
 
 A set of simple tutorials that explain MCMC (**M**arkov **C**hain **M**onte **C**arlo).
 
@@ -60,11 +60,11 @@ jupyter notebook
 
 After executing the last command, you should be redirected to a localhost server in your browser. Click on the tutorials you want to view, which are listed above... and have a blast!
 
-### Web Usage 🌎
+### Web Usage
 
 **TODO**
 
-## Contributors 👨🏻💻
+## Contributors
 
 Please enjoy the code and offer us any suggestions. It is our aim to make the tutorials accessible and usable by all, so that anyone can easily pick up MCMC thinking. We are always interested to hear about potential improvements to the tutorial... [suggestions](../../issues/) and pull requests are highly encouraged!
 
@@ -73,12 +73,8 @@ Questions? Tony Wong (anthony.e.wong@colorado.edu)
 | [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/13415542?v=4" width="60px;"/><br /><sub><b>Nihar Nandan</b></sub>](http://github.com/niharnandan)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=niharnandan "Code") |
 | :---: | :---: |
 
-## License 📜
+## License
 
 Copyright 2018 Tony Wong, H. Nihar Nandan, John Letey, Mingxuan Zhang
 
 This file is part of MUSSLES (Modeling and Uncertainty in Storm and Sea LEvelS). MUSSLES is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
----
-
-[Changelog](CHANGELOG.md) | [LICENSE](LICENSE)
