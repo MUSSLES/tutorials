@@ -62,7 +62,7 @@ Please enjoy the code and offer us any suggestions. It is our aim to make the tu
 
 Questions? Tony Wong (anthony.e.wong@colorado.edu)
 
-| [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/35549559?v=4" width="60px;"/><br /><sub><b>Mingxuan Zhang</b></sub>](http://github.com/MingxuanZhang)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=MingxuanZhang "Code") |
+| [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/13415542?v=4" width="60px;"/><br /><sub><b>Nihar Nandan</b></sub>](http://github.com/niharnandan)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=niharnandan "Code") |
 | :---: | :---: |
 
 ## License
