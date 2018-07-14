@@ -18,7 +18,9 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Directory Structure
 
-```
+TODO
+
+<!---```
  master/
  ├── tutorials/
  |   ├── part1/
@@ -33,7 +35,7 @@ A short description of the motivation behind the creation and maintenance of the
  |       └── Currently doesn't exist
  ├── .gitignore
  └── README.md
-```
+```-->
 
 ## Usage
 
@@ -51,7 +53,7 @@ Please note that if `pip` is connected to Python 2.7 on your computer, then you 
 
 ```sh
 # Clone the tutorial repo
-git clone https://github.com/MUSSLES/mcmc-tutorial.git
+git clone https://github.com/MUSSLES/tutorials.git
 # Go to the repo directory
 cd MCMC_Tutorial
 # Start the Jupyter server
@@ -70,8 +72,8 @@ Please enjoy the code and offer us any suggestions. It is our aim to make the tu
 
 Questions? Tony Wong (anthony.e.wong@colorado.edu)
 
-| [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/13415542?v=4" width="60px;"/><br /><sub><b>Nihar Nandan</b></sub>](http://github.com/niharnandan)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=niharnandan "Code") | [<img src="https://avatars2.githubusercontent.com/u/35549559?v=4" width="60px;"/><br /><sub><b>Mingxuan Zhang</b></sub>](http://github.com/MingxuanZhange)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=MingxuanZhang "Code") |
-| :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/13415542?v=4" width="60px;"/><br /><sub><b>Nihar Nandan</b></sub>](http://github.com/niharnandan)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=niharnandan "Code") | [<img src="https://avatars2.githubusercontent.com/u/35549559?v=4" width="60px;"/><br /><sub><b>Mingxuan Zhang</b></sub>](http://github.com/MingxuanZhang)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=MingxuanZhang "Code") | [<img src="https://avatars2.githubusercontent.com/u/19948806?v=4" width="60px;"/><br /><sub><b>Tony Wong</b></sub>](http://github.com/tonyewong)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=tonyewong "Code") |
+| :---: | :---: | :---: | :---: |
 
 ## License
 
