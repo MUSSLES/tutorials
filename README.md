@@ -77,6 +77,8 @@ Questions? Tony Wong (anthony.e.wong@colorado.edu)
 
 ### License
 
+[![License](https://img.shields.io/github/license/MUSSLES/tutorials.svg)](LICENSE)
+
 Copyright 2018 Tony Wong, H. Nihar Nandan, John Letey, Mingxuan Zhang
 
 This file is part of MUSSLES (Modeling and Uncertainty in Storm and Sea LEvelS). MUSSLES is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
