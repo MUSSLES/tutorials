@@ -1,9 +1,10 @@
 <h1 align=center>Tutorials</h1>
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MUSSLES/tutorials/master) [![License](https://img.shields.io/github/license/MUSSLES/tutorials.svg)](LICENSE) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+
 ### Table of Contents
 
 * [What is it?](#what-is-it)
-* [Directory Structure](#directory-structure)
 * [Usage](#usage)
     - [Local Usage](#local-usage)
     - [Web Usage](#web-usage)
@@ -15,27 +16,6 @@
 A set of simple tutorials that explain MCMC (**M**arkov **C**hain **M**onte **C**arlo).
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-### Directory Structure
-
-TODO
-
-<!---```
- master/
- ├── tutorials/
- |   ├── part1/
- |   |   ├── figs/                             # Figures folder
- |   |   └── linear_model_mcmc.ipynb           # Part1 of tutorial
- |   ├── part2/
- |   |   └── Currently doesn't exist... waiting on Nihar 
- |   ├── part3/
- |   |   ├── gev_distribution_fitting.ipynb    # Part3A of tutorial
- |   |   └── normal_distribution_fitting.ipynb # Part3B of tutorial
- |   └── part4/ 
- |       └── Currently doesn't exist
- ├── .gitignore
- └── README.md
-```-->
 
 ### Usage
 
@@ -76,8 +56,6 @@ Questions? Tony Wong (anthony.e.wong@colorado.edu)
 | :---: | :---: | :---: | :---: |
 
 ### License
-
-[![License](https://img.shields.io/github/license/MUSSLES/tutorials.svg)](LICENSE)
 
 Copyright 2018 Tony Wong, H. Nihar Nandan, John Letey, Mingxuan Zhang
 
