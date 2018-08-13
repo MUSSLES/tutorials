@@ -3,14 +3,17 @@
 <!-- [![Binder](https://mybinder.org/badge.svg?style=for-the-badge)](https://mybinder.org/v2/gh/MUSSLES/tutorials/master)-->
 [![License](https://img.shields.io/github/license/MUSSLES/tutorials.svg?style=for-the-badge)](LICENSE) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/ambv/black)
 
-### Table of Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
 
-* [What is it?](#what-is-it)
-* [Usage](#usage)
-    - [Local Usage](#local-usage)
-    - [Web Usage](#web-usage)
-* [Contributors](#contributors)
-* [License](#license)
+- [What is it?](#what-is-it)
+- [Usage](#usage)
+  - [Web Usage](#web-usage)
+- [Contributors](#contributors)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### What is it?
 
@@ -54,7 +57,7 @@ Please enjoy the code and offer us any suggestions. It is our aim to make the tu
 Questions? Tony Wong (anthony.e.wong@colorado.edu)
 
 | [<img src="https://avatars3.githubusercontent.com/u/30328854?v=4" width="60px;"/><br /><sub><b>John Letey</b></sub>](https://github.com/johnletey)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=johnletey "Code") | [<img src="https://avatars2.githubusercontent.com/u/13415542?v=4" width="60px;"/><br /><sub><b>Nihar Nandan</b></sub>](http://github.com/niharnandan)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=niharnandan "Code") | [<img src="https://avatars2.githubusercontent.com/u/35549559?v=4" width="60px;"/><br /><sub><b>Mingxuan Zhang</b></sub>](http://github.com/MingxuanZhang)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=MingxuanZhang "Code") | [<img src="https://avatars2.githubusercontent.com/u/19948806?v=4" width="60px;"/><br /><sub><b>Tony Wong</b></sub>](http://github.com/tonyewong)<br />[💻](https://github.com/MUSSLES/tutorials/commits?author=tonyewong "Code") |
-| :---: | :---: | :---: | :---: |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### License
 
