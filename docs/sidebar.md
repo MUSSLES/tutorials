@@ -1,11 +1,6 @@
 - [Introduction](/)
-- [Quick Start](quick-start)
-- [Themes](themes)
-- [Customization](customization)
-- [Options](options)
-- [Markdown](markdown)
-- [Changelog](changelog)
 - **Style**
-- <a href="#" data-link-title="Simple Dark">Preview</a>
+- <a href="#" data-link-title="Simple">Light Theme</a>
+- <a href="#" data-link-title="Simple Dark">Dark Theme</a>
 - **Links**
 - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/mussles/tutorials)
